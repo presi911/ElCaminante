@@ -1,0 +1,13 @@
+C:\Projects\ElCaminante\ElCaminante.Domain\bin\Release\net8.0\ElCaminante.Domain.deps.json
+C:\Projects\ElCaminante\ElCaminante.Domain\bin\Release\net8.0\ElCaminante.Domain.dll
+C:\Projects\ElCaminante\ElCaminante.Domain\bin\Release\net8.0\ElCaminante.Domain.pdb
+C:\Projects\ElCaminante\ElCaminante.Domain\obj\Release\net8.0\ElCaminante.Domain.csproj.AssemblyReference.cache
+C:\Projects\ElCaminante\ElCaminante.Domain\obj\Release\net8.0\ElCaminante.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\ElCaminante\ElCaminante.Domain\obj\Release\net8.0\ElCaminante.Domain.AssemblyInfoInputs.cache
+C:\Projects\ElCaminante\ElCaminante.Domain\obj\Release\net8.0\ElCaminante.Domain.AssemblyInfo.cs
+C:\Projects\ElCaminante\ElCaminante.Domain\obj\Release\net8.0\ElCaminante.Domain.csproj.CoreCompileInputs.cache
+C:\Projects\ElCaminante\ElCaminante.Domain\obj\Release\net8.0\ElCaminante.Domain.sourcelink.json
+C:\Projects\ElCaminante\ElCaminante.Domain\obj\Release\net8.0\ElCaminante.Domain.dll
+C:\Projects\ElCaminante\ElCaminante.Domain\obj\Release\net8.0\refint\ElCaminante.Domain.dll
+C:\Projects\ElCaminante\ElCaminante.Domain\obj\Release\net8.0\ElCaminante.Domain.pdb
+C:\Projects\ElCaminante\ElCaminante.Domain\obj\Release\net8.0\ref\ElCaminante.Domain.dll

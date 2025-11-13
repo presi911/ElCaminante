@@ -1,0 +1,16 @@
+C:\Projects\ElCaminante\ElCaminante.Infrastructure\bin\Debug\net8.0\ElCaminante.Infrastructure.deps.json
+C:\Projects\ElCaminante\ElCaminante.Infrastructure\bin\Debug\net8.0\ElCaminante.Infrastructure.dll
+C:\Projects\ElCaminante\ElCaminante.Infrastructure\bin\Debug\net8.0\ElCaminante.Infrastructure.pdb
+C:\Projects\ElCaminante\ElCaminante.Infrastructure\bin\Debug\net8.0\ElCaminante.Domain.dll
+C:\Projects\ElCaminante\ElCaminante.Infrastructure\bin\Debug\net8.0\ElCaminante.Domain.pdb
+C:\Projects\ElCaminante\ElCaminante.Infrastructure\obj\Debug\net8.0\ElCaminante.Infrastructure.csproj.AssemblyReference.cache
+C:\Projects\ElCaminante\ElCaminante.Infrastructure\obj\Debug\net8.0\ElCaminante.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\ElCaminante\ElCaminante.Infrastructure\obj\Debug\net8.0\ElCaminante.Infrastructure.AssemblyInfoInputs.cache
+C:\Projects\ElCaminante\ElCaminante.Infrastructure\obj\Debug\net8.0\ElCaminante.Infrastructure.AssemblyInfo.cs
+C:\Projects\ElCaminante\ElCaminante.Infrastructure\obj\Debug\net8.0\ElCaminante.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Projects\ElCaminante\ElCaminante.Infrastructure\obj\Debug\net8.0\ElCaminante.Infrastructure.sourcelink.json
+C:\Projects\ElCaminante\ElCaminante.Infrastructure\obj\Debug\net8.0\ElCamina.22AF44E9.Up2Date
+C:\Projects\ElCaminante\ElCaminante.Infrastructure\obj\Debug\net8.0\ElCaminante.Infrastructure.dll
+C:\Projects\ElCaminante\ElCaminante.Infrastructure\obj\Debug\net8.0\refint\ElCaminante.Infrastructure.dll
+C:\Projects\ElCaminante\ElCaminante.Infrastructure\obj\Debug\net8.0\ElCaminante.Infrastructure.pdb
+C:\Projects\ElCaminante\ElCaminante.Infrastructure\obj\Debug\net8.0\ref\ElCaminante.Infrastructure.dll
